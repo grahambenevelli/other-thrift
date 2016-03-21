@@ -1,0 +1,12 @@
+{
+    "require": {
+        "monolog/monolog": "1.17.2",
+        "mgargano/rotoworld": "^0.3.2"
+    },
+    "name": "grahambenevelli/other-thrift",
+    "autoload": {
+        "psr-0" : {
+            "sgy_analytics" : "src"
+        }
+    }
+}
