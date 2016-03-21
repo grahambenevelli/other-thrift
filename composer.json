@@ -1,9 +1,9 @@
 {
     "require": {
-        "monolog/monolog": "1.17.1",
+        "monolog/monolog": "^1.17.1",
         "mgargano/rotoworld": "^0.3.2"
     },
-	"minimum-stability": "dev",
+    "minimum-stability": "dev",
     "name": "grahambenevelli/other-thrift",
     "autoload": {
         "psr-0" : {
